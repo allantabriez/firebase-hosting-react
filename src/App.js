@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn to Deploy React using Firebase Hosting
+          By Allan T. Rosyada
         </a>
       </header>
     </div>
